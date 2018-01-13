@@ -3,17 +3,17 @@
   "name": "In Focus Church Website",
   "icons": [
     {
-      "src": "/s/ios_icon_48.png",
+      "src": "https://www.infocuschurch.org/s/ios_icon_48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "/s/ios_icon_96.png",
+      "src": "https://www.infocuschurch.org/s/ios_icon_96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "/s/ios_icon_192.png",
+      "src": "https://www.infocuschurch.org/s/ios_icon_192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
