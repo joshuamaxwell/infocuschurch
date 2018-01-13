@@ -3,17 +3,17 @@
   "name": "In Focus Church Website",
   "icons": [
     {
-      "src": "s/ios_icon_48.png",
+      "src": "/s/ios_icon_48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "ios_icon_96.png",
+      "src": "/s/ios_icon_96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "ios_icon_192.png",
+      "src": "/s/ios_icon_192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
@@ -21,5 +21,5 @@
   "start_url": "index.html?launcher=true&utm_source=homescreen",
   "background_color": "#000",
   "theme_color": "#000",
-  "dislay": "standalone"
+  "display": "standalone"
 }
